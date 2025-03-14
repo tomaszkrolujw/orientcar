@@ -1,0 +1,16 @@
+domena strony orientcar.pl
+
+Do wykonania baza modeli chińskich aut 
+
+!! Na górze strony dodać baner z informacja że strona powstała w celu edukacyjnym !!
+
+zaprogramowanie kalendarza interaktywnego do możliwości rezerwowania samochodu 
+Stworzyć formularz rezerwacyjny oraz formularz do anulowania rezerwacji 
+
+
+
+
+Baza danych 
+Tabele z kontami użytkowników 
+Tabele z modelami aut 
+
