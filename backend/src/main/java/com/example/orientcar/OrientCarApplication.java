@@ -1,4 +1,4 @@
-package pl.orientcar;
+package com.example.orientcar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
